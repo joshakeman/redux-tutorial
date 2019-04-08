@@ -10,6 +10,7 @@ class App extends Component {
           <Footer />
       </div>
     )
+  }
 }
 
 export default App;
